@@ -2,7 +2,7 @@
 
 - He/him
 - 19-years-old
-- Junior in Computer Programming & Applications
+- Senior in Computer Programming & Applications
 - "Game developer" (only when I actually work on the games)
 - Artist, musician, writer, etc.
 - Blind man whose arms don't work properly - nothing gets done fast around here.
