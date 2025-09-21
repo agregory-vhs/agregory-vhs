@@ -6,7 +6,6 @@
 - "Game developer" (only when I actually work on the games)
 - Artist, musician, writer, etc.
 - Blind man whose arms don't work properly - nothing gets done fast around here.
-- Feel free to contact me about accessibility in game and web design!
 
 <h2 align="center">STATS</h2>
 <div align="center">
