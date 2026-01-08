@@ -9,8 +9,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
     <b> EMAIL</b>
   </a>
-  <br/>
-  
+  <span style="margin: 0 16px;"></span>
   <a href="https://discordapp.com/users/691780596648640662">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
     <b> DISCORD</b>
