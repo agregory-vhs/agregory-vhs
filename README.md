@@ -3,6 +3,14 @@
 - He/him
 - Senior in Computer Programming & Applications
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,c,java" /></br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" /></br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,unity,godot,blender,clion" /></br>
+  </a>
+</p>
+
 <h2 align="center">CONTACT</h2>
 <div align="center">
   <a href="mailto:aresgregory1421@gmail.com">
@@ -18,11 +26,3 @@
   <p align="center">
     The fastest way to reach me <i>is</i> Discord. I check my email at least twice daily, but Discord is checked more regularly.
   </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,c,java" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
-    <img src="https://skillicons.dev/icons?i=vscode,figma,unity,godot,blender,clion" />
-  </a>
-</p>
